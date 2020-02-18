@@ -1,0 +1,44 @@
+#+OPTIONS: toc:nil H:5 ':t
+#+LATEX_CLASS_OPTIONS: [a4paper, 10pt]
+#+LATEX_HEADER: \usepackage{resume}
+
+#+TITLE: Felipe Mateo Curti
+
+* Personal Data
+#+ATTR_HTML: :frame void
+#+ATTR_LATEX: :environment tabular :align llll
+| <l>             |                              |                     |                                 |
+| *Birthday*      | 7th of May, 1998             | *Email*             | [[mailto:fmcurti@gmail.com][fmcurti@gmail.com]]             |
+| *Birth place*   | Bueons Aires, Argentina      | *Cell Phone number* | +54 911 40483872                |
+| *GitHub*        | https://github.com/fmcurti   | *LinkedIn*          | https://linkedin.com/in/fmcurti |
+
+* Professional Experience
+** 01/2019 -- Current
+   *Software Developer*, /SIISA/\\
+   Developments for a Fintech company using Python, .NET Framework, SQL Server and MongoDB.
+
+* Education
+** 2016 -- Current
+   *Licentiate Degree in Computer Science*\\
+   /Facultad de Ciencias Exactas y Naturales/ - /Universidad de Buenos Aires/\\
+   GPA: 9/10.
+
+* Computer Skills
+** *Languages*
+   Scala, C/C++, Haskell, Python, HTML, CSS, Javascript, SQL, NASM, C#
+
+** *Tools*
+   Git, Docker
+
+** *Frameworks*
+   scikit-learn, Keras, Spark, .NET
+
+** *Platforms*
+   Linux, Windows
+
+* Languages
+** *Spanish*
+   Native language
+
+** *English*
+   First Certificate in English (Grade B) \hfill /2014/
